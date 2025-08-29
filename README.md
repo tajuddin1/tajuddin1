@@ -4,7 +4,7 @@
 
 ### About Me
 - 🔭 I’m currently working as a **Frontend Developer**
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React JS, Node JS, Vue JS**
 - 📫 How to reach me: **myself.tazuddin@gmail.com**
 
 ---
