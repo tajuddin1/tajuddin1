@@ -1,6 +1,13 @@
 <h1 align="center">Hi there, I'm Muhammad Taz Uddin 👋</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | PHP & WordPress Specialist</h3>
 
-![Welcome Banner](https://img.shields.io/badge/Welcome%20to%20my%20GitHub-%F0%9F%91%8B-brightgreen.svg)
+<p align="center">
+  I build clean, fast, and high-converting websites for businesses 🚀
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub-%F0%9F%91%8B-brightgreen.svg" />
+</p>
+
 
 ### About Me
 - 🔭 I’m currently working as a **Frontend Developer**
@@ -20,7 +27,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
 ---
 
 ### 🌍 Connect with Me
@@ -29,5 +35,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
 
 ---
-
 Thanks for stopping by! ✨
