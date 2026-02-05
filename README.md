@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Taz Uddin 👋</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | PHP & WordPress Specialist</h3>
+<h3 align="center">Frontend Developer | React Specialist</h3>
 
 <p align="center">
   I build clean, fast, and high-converting websites for businesses 🚀
@@ -10,8 +10,10 @@
 
 
 ### About Me
-- 🔭 I’m currently working as a **Frontend Developer**
-- 🌱 I’m currently learning **React JS, Node JS, Vue JS**
+-  I’m currently working as a **Frontend Developer**
+-  I help businesses turn ideas into fast, modern, and high-converting websites.
+-  I specialize in **React**, **JavaScript**, and **UI-focused development** websites.
+-  I care about clean code, performance, and delivering real value through thoughtful design and development.
 - 📫 How to reach me: **myself.tazuddin@gmail.com**
 
 ---
